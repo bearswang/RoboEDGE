@@ -1,4 +1,4 @@
-# ROBO_EDGE
+# ROBOEDGE: A Robotic Edge Intelligence Platform
 
 A robotic dataset collection platform for training machine learning models and executing model inference.
 
